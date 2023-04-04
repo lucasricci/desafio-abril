@@ -59,6 +59,7 @@ div p {
 
 input {
     position: relative;
+    width: 100%;
     border: hidden;
     background-color: transparent;
     color: #52525b;
